@@ -2743,7 +2743,7 @@
     "m_ObjectId": "675d422feef04460b19e76e33429f207",
     "m_Title": "Calculate base color with offset",
     "m_Position": {
-        "x": -1651.0,
+        "x": -1651.000244140625,
         "y": -53.0
     }
 }
@@ -2976,7 +2976,7 @@
     "m_Title": "Get ScreenSpace Hatching Value",
     "m_Position": {
         "x": -3343.0,
-        "y": 220.0
+        "y": 220.00001525878907
     }
 }
 
@@ -3207,7 +3207,7 @@
     "m_ObjectId": "8c7c9b2e1fd548048e821d3d2eb9abeb",
     "m_Title": "Apply drawing strength",
     "m_Position": {
-        "x": -683.0,
+        "x": -683.0001831054688,
         "y": -53.0
     }
 }
